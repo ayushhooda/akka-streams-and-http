@@ -1,0 +1,9 @@
+{
+  "creditCard": {
+    "serialNumber": "9999",
+    "securityCode": "123",
+    "account": "abc"
+  },
+  "receiverAccount": "8888",
+  "amount": 100
+}
